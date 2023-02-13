@@ -10,3 +10,8 @@ Mark down intro for mulearn
 To clone tjis repo type following command
 $ git clone https://github.com/AjnasNB/Intro-to-markdown/
 ```
+# Checkout this tasks
+
+- [x] Created readme
+- [x] Created portfolio
+- [x] Created some projects
